@@ -1,0 +1,26 @@
+| **Familia**                  | **Nombre**                 | **Presentación**      | **Mecanismo de Acción/ Uso**                                   |
+|------------------------------|----------------------------|-----------------------|-----------------------------------------------------------------|
+| **Diuréticos**                | Hidroclorotiazida           | Tabletas orales       | Inhibe la reabsorción de sodio en el túbulo distal, reduciendo el volumen plasmático. |
+|                              | Furosemida                 | Tabletas, inyectable   | Diurético de asa, inhibe la reabsorción de sodio y cloro en el asa de Henle.           |
+| **Betabloqueadores**          | Atenolol                   | Tabletas orales       | Bloquea los receptores beta-1 cardíacos, disminuyendo la frecuencia cardíaca y el gasto cardíaco. |
+|                              | Propranolol                | Tabletas orales       | Bloquea receptores beta-1 y beta-2, reduce la presión arterial y la frecuencia cardíaca. |
+| **Inhibidores de la ECA**     | Enalapril                  | Tabletas orales       | Inhibe la enzima convertidora de angiotensina (ECA), reduciendo la vasoconstricción y la secreción de aldosterona. |
+|                              | Captopril                  | Tabletas orales       | Inhibe la formación de angiotensina II, disminuyendo la resistencia vascular periférica. |
+| **Antagonistas de los receptores de angiotensina II (ARA II)** | Losartán                   | Tabletas orales       | Bloquea los receptores de angiotensina II, inhibiendo su efecto vasoconstrictor.        |
+|                              | Valsartán                  | Tabletas orales       | Inhibe la acción de la angiotensina II sobre sus receptores, reduciendo la resistencia vascular. |
+| **Calcioantagonistas**        | Amlodipino                 | Tabletas orales       | Inhibe la entrada de calcio en las células del músculo liso vascular, promoviendo la vasodilatación. |
+|                              | Nifedipino                 | Tabletas, cápsulas     | Relaja el músculo liso vascular mediante la inhibición de los canales de calcio.       |
+| **Alfa bloqueadores**         | Prazosina                  | Tabletas orales       | Bloquea los receptores alfa-1, causando vasodilatación arterial y venosa.              |
+|                              | Doxazosina                 | Tabletas orales       | Antagonista alfa-1 que reduce la resistencia vascular periférica.                      |
+| **Agonistas de los receptores alfa-2 adrenérgicos** | Clonidina                 | Tabletas, parches      | Estimula los receptores alfa-2 en el cerebro, reduciendo la actividad simpática y la presión arterial. |
+|                              | Metildopa                  | Tabletas orales       | Reduce la actividad simpática central, disminuyendo la resistencia vascular periférica. |
+| **Vasodilatadores directos**  | Hidralazina                | Tabletas, inyectable   | Relaja directamente el músculo liso de las arteriolas, disminuyendo la resistencia periférica. |
+|                              | Minoxidil                  | Tabletas orales       | Relaja el músculo liso de las arteriolas, aumentando el diámetro vascular.             |
+| **Inhibidores directos de la renina** | Aliskireno               | Tabletas orales       | Inhibe la renina, reduciendo la conversión de angiotensinógeno en angiotensina I.       |
+| **Antagonistas de los receptores adrenérgicos mixtos (alfa y beta bloqueadores)** | Carvedilol                | Tabletas orales       | Bloquea receptores alfa-1 y beta, produciendo vasodilatación y reducción de la frecuencia cardíaca. |
+|                              | Labetalol                 | Tabletas, inyectable   | Bloquea receptores alfa y beta, utilizado en emergencias hipertensivas.                |
+| **Inhibidores de los canales de potasio** | Diazóxido                | Inyectable            | Abre los canales de potasio, causando hiperpolarización del músculo liso y vasodilatación. |
+| **Antagonistas de los receptores de aldosterona** | Eplerenona               | Tabletas orales       | Bloquea los efectos de la aldosterona, reduciendo la retención de sodio y agua.        |
+|                              | Espironolactona            | Tabletas orales       | Antagonista de los receptores de aldosterona, usado en hipertensión resistente y como diurético ahorrador de potasio. |
+| **Combinaciones**             | Losartán/Hidroclorotiazida | Tabletas orales       | ARA II + Diurético tiazídico: combinan los efectos de ambos fármacos para mayor control de la presión arterial. |
+|                              | Amlodipino/Benazepril      | Tabletas orales       | Calcioantagonista + IECA: combinan la vasodilatación y la inhibición de la ECA para el control de la presión arterial. |
